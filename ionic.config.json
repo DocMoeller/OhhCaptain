@@ -1,0 +1,8 @@
+{
+  "name": "OhhCaptain",
+  "app_id": "e2bc699b",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
